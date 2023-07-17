@@ -4,7 +4,6 @@ metadata:
 attributes:
   controller.devfile.io/devworkspace-config:
     name: devworkspace-config
-    namespace: crw
   controller.devfile.io/scc: container-build
   controller.devfile.io/storage-type: per-workspace
 projects:
