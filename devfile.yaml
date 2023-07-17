@@ -20,7 +20,7 @@ components:
       endpoints:
         - exposure: public
           name: app-url
-          protocol: https
+          protocol: http
           targetPort: 8080
       env:
         - name: OPENVSX_REGISTRY_URL
