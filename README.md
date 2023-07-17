@@ -1,6 +1,6 @@
-## About the application
+## Create the application
 
-This is a sample application created using the CLI command `npx create-react-app nodejs-react-app` with no further changes.
+Create the application using the CLI command `npx create-react-app nodejs-react-app`. Then, update the `packages.json` to include the OpenShift default port number `8080`.
 
 ## Managing the environment
 
